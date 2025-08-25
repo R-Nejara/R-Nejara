@@ -1,12 +1,28 @@
 ### Hi there, I'm Ray! 👋
 
-- 🚀 Passionate about JavaScript and web development
-- 🎨 Enthusiastic about UI/UX design in Figma
-- 💡 Always eager to learn and explore new technologies
-- 🌱 Currently working on expanding my knowlege in JavaScript
+- Passionate about JavaScript and modern web development  
+- Interested in UI/UX design, often prototyping ideas in Figma  
+- Currently exploring **Three.js** and 3D modeling in **Blender**  
+- Daily coding in **Neovim**, always refining my workflow  
+- Constantly learning and experimenting with new technologies  
 
-Let's connect and collaborate on exciting projects! 🌟
-<!---
-R-Nejara/R-Nejara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+Let's connect and collaborate on exciting projects!
