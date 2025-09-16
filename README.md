@@ -2,7 +2,7 @@
 
 # 👋 Rayan Nejara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Automotive+Software+Dev+in+the+making;Let's+build+something+cool!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Automotive+Enthusiast;WebGL+%26+Three.js+Learner" />
 
 <br/>
 
@@ -11,13 +11,13 @@
 <a href="https://www.linkedin.com/in/rayannejara/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.com/users/rayannnejara">
+<a href="https://discord.gg/WTTypSwm35">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <br/>
 
-**📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev**
+**📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev** • **🍵 Tea Enthusiast** 
 
 </div>
 <br/>
@@ -39,7 +39,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 🏋️ **Hobby:** Going to the gym  
 💻 **Approach:** Plan it out, then build it
 
-<br/>
+
 
 ### 💻 Tech Stack
 
@@ -47,12 +47,25 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 <img src="https://skillicons.dev/icons?i=js,threejs,html,css,git,github,vscode&theme=dark" />
 </div>
 
-<br/>
+
 
 #### 🎯 **Learning**
-- **Three.js & WebGL**
-- **Automotive Software Development**
-- **Git workflows**
+ **Three.js & WebGL**
+ <br>
+ **Automotive Software Development**
+  <br>
+ **Git workflows**
+<br/>
+ **<div>| my favourite tea |</div>**
+
+<a align="center" target="_blank" href="https://www.ahmadtea.de/ahmad-tea-green-tea-br-250-g-loser-tee.html">
+  <img height="40px" src="https://raw.githubusercontent.com/gist/R-Nejara/0b306b4415475c626f10c150ea3af3a5/raw/048931d160f4d30907ac5917a3be575f36aff41e/gistfile1.svg" style="vertical-align:middle; opacity:0.7;" />
+</a>
+
+
+<br/>
+
+[![click to order](https://img.shields.io/badge/click-to%20order-brightgreen)](https://www.ahmadtea.de/ahmad-tea-green-tea-br-250-g-loser-tee.html)
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +76,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=R-Nejara&show_icons=true&theme=dark&bg_color=2F1B14&title_color=FF8C00&text_color=F5DEB3&icon_color=D2691E&border_color=CD853F&hide_rank=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=R-Nejara&show_icons=true&theme=dark&bg_color=2F1B14&title_color=FF8C00&text_color=F5DEB3&icon_color=D2691E&border_color=CD853F&hide_rank=true" />
 </div>
 
 <br/>
@@ -90,8 +103,8 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 <div align="center">
 
-## 🏆 **FEATURED PROJECT**
-
+🏆 **FEATURED PROJECT**
+---
 ### 🚗 **Three.js Car Showroom** 
 *3D car visualization with interactive camera controls*
 
@@ -150,26 +163,13 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 </div>
 
-
-
 ---
 
 <br/>
 
 <div align="center">
-
-### 🍵 *"My favourite Tea"*
-
-
-
-<a href="https://www.ahmadtea.de/ahmad-tea-green-tea-br-250-g-loser-tee.html">
-<img height="20px" src="https://raw.githubusercontent.com/gist/R-Nejara/0b306b4415475c626f10c150ea3af3a5/raw/048931d160f4d30907ac5917a3be575f36aff41e/gistfile1.svg" />
-</a>
-
-<br/>
-<div>
+  
+### 💡 *"Plan it out, then build it"*
   <br>
   <img src="https://komarev.com/ghpvc/?username=R-Nejara&color=D2691E&style=flat-square&label=Profile+Views" />
-</div>
-
 </div>
