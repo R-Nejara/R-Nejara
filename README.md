@@ -124,7 +124,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
   
 ## 🌟 All Projects
-<br/>
+
 <table width="100%">
 <tr>
 <td width="33%" align="center">
@@ -168,6 +168,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 <br/>
 
 <div align="center">
+
   
 ### 💡 *"Plan it out, then build it"*
   <br>
