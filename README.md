@@ -29,7 +29,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="1000px" valign="top">
 
 ## 🚀 About Me
 
@@ -68,29 +68,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 [![click to order](https://img.shields.io/badge/click-to%20order-brightgreen)](https://www.ahmadtea.de/ahmad-tea-green-tea-br-250-g-loser-tee.html)
 
 </td>
-<td width="50%" valign="top">
-  
-### 🔍 **Looking for**
 
-**Dual Studies Opportunities**  
-
-### 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=R-Nejara&show_icons=true&theme=dark&bg_color=2F1B14&title_color=FF8C00&text_color=F5DEB3&icon_color=D2691E&border_color=CD853F&hide_rank=true" />
-</div>
-
-<br/>
-
-### 📈 Language Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Nejara&layout=compact&theme=dark&bg_color=2F1B14&title_color=FF8C00&text_color=F5DEB3&border_color=CD853F" alt="Top Languages" />
-</div>
-
-<br/>
-
-
-
-</td>
 </tr>
 </table>
 </div>
