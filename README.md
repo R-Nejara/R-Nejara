@@ -20,7 +20,6 @@
 **📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev**
 
 </div>
-
 <br/>
 
 ---
@@ -159,10 +158,18 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 <div align="center">
 
-### 💡 *"Plan it out, then build it"*
+### 🍵 *"My favourite Tea"*
+
+
+
+<a href="https://www.ahmadtea.de/ahmad-tea-green-tea-br-250-g-loser-tee.html">
+<img height="20px" src="https://raw.githubusercontent.com/gist/R-Nejara/0b306b4415475c626f10c150ea3af3a5/raw/048931d160f4d30907ac5917a3be575f36aff41e/gistfile1.svg" />
+</a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=R-Nejara&color=D2691E&style=flat-square&label=Profile+Views" />
+<div>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=R-Nejara&color=D2691E&style=flat-square&label=Profile+Views" />
+</div>
 
 </div>
