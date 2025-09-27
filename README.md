@@ -46,7 +46,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 ### 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,threejs,html,css,git,github,neovim,blender,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,git,github,neovim,blender,figma&theme=dark" />
 </div>
 
 
