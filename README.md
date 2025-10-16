@@ -31,7 +31,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="1000px" valign="top">
+<td width="1000px" valign="top" align="center">
 
 ## 🚀 About Me
 
