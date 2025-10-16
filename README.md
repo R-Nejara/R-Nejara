@@ -139,6 +139,20 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 </td>
 </tr>
 <br/>
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ **Waybar Config**
+<a href="https://github.com/R-Nejara/waybar-config">
+<img src="https://img.shields.io/badge/Three.js-FF6347?style=flat&logo=json&logoColor=white" />
+</a>
+
+**Custom Waybar Configuration**
+
+</td>
+
+</tr>
+<br/>
 </table>
 
 </div>
