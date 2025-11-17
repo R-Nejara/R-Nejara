@@ -121,7 +121,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 ### 🎮 **Blocky Portfolio**
 <a href="https://github.com/R-Nejara/blocky-portfolio-game">
-<img src="https://img.shields.io/badge/WebGL-D2691E?style=flat&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-FF6347?style=flat&logo=three.js&logoColor=white" />
 </a>
 
 **Game-like Portfolio Site**
@@ -131,7 +131,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 ### 🪐 **Solar System**
 <a href="https://github.com/R-Nejara/simple-solar-system-project">
-<img src="https://img.shields.io/badge/JavaScript-CD853F?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Three.js-FF6347?style=flat&logo=three.js&logoColor=white" />
 </a>
 
 **Simple Solar System Simulation**
@@ -144,7 +144,7 @@ Currently studying **Computer Science** and learning **Three.js & WebGL**.
 
 ### ⚙️ **Waybar Config**
 <a href="https://github.com/R-Nejara/waybar-config">
-<img src="https://img.shields.io/badge/Three.js-FF6347?style=flat&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Json-FF6347?style=flat&logo=json&logoColor=white" />
 </a>
 
 **Custom Waybar Configuration**
