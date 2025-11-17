@@ -2,7 +2,7 @@
 
 # 👋 Rayan Nejara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Arch+Enjoyer;NextJS+%26++Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Arch+Enjoyer;I+💚+Neovim" />
 
 <br/>
 
