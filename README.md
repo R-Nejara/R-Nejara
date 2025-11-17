@@ -2,7 +2,7 @@
 
 # 👋 Rayan Nejara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Automotive+Enthusiast;WebGL+%26+Three.js+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D2691E&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Arch+Enjoyer;NextJS+%26++Learner" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 <br>
 <br/>
 
-**📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev** • **🍵 Tea Enthusiast** 
+**📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev** • *🍵* 
 
 </div>
 <br/>
@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-Currently studying **Computer Science** and learning **Three.js & WebGL**. 
+Currently studying **Computer Science** and currently learning **Next.js & React**. 
 
 🎯 **Goal:** Get into dual studies for automotive software  
 🏋️ **Hobby:** Going to the gym  
