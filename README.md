@@ -19,7 +19,7 @@
 <br>
 <br/>
 
-**📍 Germany** • **🎓 CS Student** • **🚗 Future Automotive Dev** • *🍵* 
+**📍 Germany** • **🎓 CS Student** • *🍵* 
 
 </div>
 <br/>
